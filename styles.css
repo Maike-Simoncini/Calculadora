@@ -50,12 +50,3 @@ h1 {
     font-size: 40px;
     padding: 20px;
 }
-
-footer a {
-    display: flex;
-    justify-content: center;
-    font-weight: lighter;
-    text-decoration: none;
-    color: black;
-    align-items: center;
-}
