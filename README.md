@@ -30,7 +30,7 @@ Este projeto é uma calculadora que permite realizar operações matemáticas b�
 
 ### 🔗 Link para o Projeto
 
-👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/Calculadora/)
+👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/Calculadora/) 👈
 
 ### 📄 Licença
 
