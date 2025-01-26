@@ -21,7 +21,7 @@ Este projeto é uma calculadora que permite realizar operações matemáticas b�
 
 ### 📷 Demonstração
 
-<a><img width="100%" src="img/calculadora.png"></a>
+<a><img width="50%" src="img/calculadora.png"></a>
 
 ### 🎯 Funcionalidades
 
@@ -31,5 +31,6 @@ Este projeto é uma calculadora que permite realizar operações matemáticas b�
 
 ### 🔗 Link para o Projeto
 
+https://maike-simoncini.github.io/Calculadora/
 
 
