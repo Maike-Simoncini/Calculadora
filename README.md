@@ -5,9 +5,7 @@ Uma simples calculadora desenvolvida em HTML, CSS e JavaScript.
 
 ## 📷 Demonstração
 
-<div text-align= "center"> 
-<a><img width="50%" src="img/calculadora.png"></a>
-</div>
+<a text-align= "center"><img width="50%" src="img/calculadora.png"></a>
 
 ## 📜 Descrição do Projeto
 
