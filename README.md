@@ -26,7 +26,7 @@ Este projeto é uma calculadora que permite realizar operações matemáticas b�
 
 ### 📷 Demonstração
 
-<a><img width="60%" src="img/calculadora.png"></a>
+<a><img width="50%" src="img/calculadora.png"></a>
 
 ### 🔗 Link para o Projeto
 
