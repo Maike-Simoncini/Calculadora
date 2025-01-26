@@ -3,6 +3,10 @@
 
 Uma simples calculadora desenvolvida em HTML, CSS e JavaScript.
 
+## 📷 Demonstração
+
+<a><img width="50%" src="img/calculadora.png"></a>
+
 ## 📜 Descrição do Projeto
 
 Este projeto é uma calculadora que permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. A interface é simples e intuitiva, ideal para praticar suas habilidades de programação.
@@ -19,17 +23,13 @@ Este projeto é uma calculadora que permite realizar operações matemáticas b�
 - styles.css
 - script.js
 
-### 📷 Demonstração
-
-<a><img width="50%" src="img/calculadora.png"></a>
-
-### 🎯 Funcionalidades
+## 🎯 Funcionalidades
 
 - Realizar operações matemáticas básicas.
 - Mostrar o resultado na tela.
 - Limpar a tela com o botão **CE**.
 
-### 🔗 Link para o Projeto
+## 🔗 Link para o Projeto
 
 https://maike-simoncini.github.io/Calculadora/
 
